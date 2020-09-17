@@ -1,6 +1,6 @@
 # A complete data science playbook
 
 This playbook will have Python code for:
-functions, visualization - matplotlib, seaborn and altair, pandas, statistics, bayesian statistics, linear regression, logistic regression, random forest, decion trees, catboost, deep learning, nlp
+functions, matplotlib, seaborn, altair, pandas, bayesian statistics, linear regression, logistic regression, random forest, decion trees, catboost, clustering, deep learning, nlp, webscraping, automation..
 
 ## and much much more!
