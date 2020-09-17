@@ -1,0 +1,1001 @@
+age,education,gender,wealth
+66.0,High School,male,1261952.9893266659
+75.0,,female,1169028.432519709
+98.0,University,,685638.186072762
+92.0,Community College,female,702959.025976576
+98.0,,male,297977.5055318247
+61.0,,,1198036.8638326728
+64.0,Community College,male,1362551.4115430585
+39.0,Community College,female,745822.6807613401
+51.0,Community College,female,1161485.7196539238
+75.0,University,female,1416365.3110048554
+58.0,Community College,male,1371221.783796749
+34.0,High School,female,393049.6485832668
+66.0,Masters,female,1549054.6567641054
+80.0,Community College,female,1056000.9401152558
+42.0,Community College,female,896791.9411396274
+61.0,High School,male,1271281.6916438837
+,University,male,922215.4713455855
+18.0,Community College,male,0.0
+93.0,Community College,male,766209.6826932335
+29.0,University,,516320.6426879044
+38.0,High School,female,652986.222307339
+77.0,Community College,male,
+96.0,High School,male,479985.89077681914
+41.0,,female,796528.7487222983
+74.0,Community College,,1240654.7223469561
+19.0,,male,25139.58984702416
+72.0,High School,female,1142108.3128923702
+68.0,High School,male,1248613.170638876
+,University,male,1495388.3480899916
+90.0,Community College,female,
+77.0,High School,female,973918.363499907
+44.0,Masters,male,1302730.9436756405
+60.0,Community College,female,
+46.0,High School,male,912853.594162953
+53.0,PhD,female,
+42.0,Community College,female,877359.107189288
+20.0,,male,109888.5020000319
+80.0,Masters,female,1435185.6044809732
+95.0,Community College,male,640432.6705234027
+,High School,male,
+,High School,male,500511.58842322684
+91.0,Community College,male,815428.9127980584
+64.0,Masters,female,1543942.0710832926
+44.0,Community College,male,
+65.0,,female,1162139.854605338
+52.0,Community College,female,1082901.7346767955
+18.0,University,male,0.0
+34.0,Community College,male,619138.0788743149
+57.0,,male,1262420.9954342495
+53.0,University,female,
+84.0,,female,822420.2592318457
+28.0,High School,,
+35.0,Masters,,
+89.0,Community College,male,959789.0997935223
+45.0,University,male,1296281.526584573
+40.0,Masters,female,
+52.0,University,female,1355567.067469635
+46.0,High School,male,976640.7138392926
+52.0,Community College,female,1119698.4659683069
+98.0,High School,male,458208.76858673606
+89.0,High School,female,
+,High School,,564097.3001926802
+60.0,Community College,male,1315658.8299680667
+79.0,Community College,male,1224244.6848827195
+76.0,High School,female,995191.4794374064
+,Community College,female,529142.8303890445
+,Community College,male,949414.8163312959
+80.0,University,female,1200827.074590561
+75.0,,male,1336056.357207177
+45.0,High School,female,827268.4413391338
+69.0,University,male,1460305.3131238522
+80.0,University,male,1285978.3708941406
+95.0,,female,865262.6741513023
+52.0,Masters,male,1536700.6894075286
+32.0,High School,female,321891.5312158912
+41.0,High School,female,724528.0859186664
+35.0,Community College,male,670811.4373793479
+22.0,Community College,male,10356.310508766597
+79.0,University,male,
+70.0,Community College,male,1267929.2559961367
+95.0,High School,,492222.7982746773
+95.0,High School,female,517657.20365052635
+,Masters,female,779685.0885991422
+37.0,Community College,female,696675.60230574
+57.0,High School,male,1195844.1807411655
+,University,female,
+,University,,0.0
+41.0,High School,male,834069.0643074741
+24.0,,male,
+26.0,University,female,285542.64427699614
+57.0,Community College,female,1256577.564694796
+58.0,,female,1375815.6468783705
+75.0,High School,male,
+,High School,female,357983.6334420507
+51.0,Community College,male,1188822.133059408
+95.0,Community College,male,688109.4359157061
+22.0,Community College,female,
+50.0,Community College,female,1099752.8253117711
+20.0,,female,0.0
+76.0,University,female,1272500.2489624885
+64.0,High School,female,1095438.8595270398
+23.0,Community College,,125534.27055470391
+30.0,High School,female,281398.07301791705
+46.0,University,male,1172668.7194729093
+35.0,High School,female,528188.514938703
+76.0,Community College,male,
+77.0,Community College,male,1215925.7555435125
+46.0,Community College,female,1022196.9390493236
+,Community College,female,1323418.1064725937
+28.0,High School,female,170131.85700094272
+52.0,Community College,male,1225103.1205153505
+89.0,,,824703.3596961901
+46.0,High School,male,893214.8112170416
+74.0,University,female,1353848.6568540116
+57.0,University,female,1359920.8316534748
+53.0,,male,1221214.46462503
+,Community College,male,1129092.8948866418
+48.0,Community College,female,1003837.5749031578
+,University,female,983977.6109439979
+78.0,Community College,male,1240800.579901306
+66.0,Community College,male,1368543.5570064576
+96.0,High School,female,
+64.0,University,female,1394736.6396474384
+31.0,University,,532130.787585665
+94.0,Community College,female,
+22.0,Masters,male,292552.64678646444
+91.0,University,male,996920.9608733095
+49.0,Community College,female,1066497.9763170788
+69.0,Community College,,1387080.9926370378
+,Community College,female,836243.8890430056
+69.0,High School,female,1155471.9987075718
+,University,male,1295658.9605813357
+25.0,University,female,296754.75317460496
+,University,female,1115831.7959940245
+61.0,,male,1289056.5685464712
+60.0,,female,1159380.8057927266
+66.0,Community College,male,1367344.204283788
+45.0,Community College,female,996388.0227702826
+21.0,University,,44310.412244902356
+74.0,Community College,female,1147499.4227074217
+97.0,Community College,female,
+98.0,,male,639777.2327275433
+96.0,Community College,male,623929.5513685003
+46.0,Community College,female,
+62.0,Community College,male,1365914.9186731956
+44.0,Community College,,990440.3763600027
+26.0,Community College,male,283073.06816004677
+61.0,High School,female,
+66.0,Community College,female,
+51.0,Community College,female,1088741.2251586856
+,Community College,male,
+56.0,High School,male,
+64.0,,male,1221480.194679851
+37.0,University,female,821575.624710299
+56.0,Masters,female,1478678.6953739098
+90.0,High School,female,617314.7853875288
+47.0,University,female,1222887.33448217
+37.0,Community College,female,726490.269965048
+29.0,High School,female,220728.78788269602
+41.0,,female,965955.7692096197
+36.0,Community College,male,732108.4317164789
+,Community College,male,931294.9929787029
+35.0,Community College,male,712494.7325496385
+72.0,Community College,male,1402744.0838255356
+76.0,University,female,1339616.1603285861
+37.0,Masters,,1067002.9747835137
+34.0,Community College,male,677378.3193738017
+39.0,Community College,female,808559.234249336
+89.0,Masters,female,1084408.62788771
+95.0,University,male,821942.8535158664
+69.0,University,female,1360113.7560527893
+89.0,High School,male,851704.3687716072
+,Masters,male,
+80.0,University,female,1225335.0678443816
+57.0,University,male,1428289.1760468234
+34.0,Community College,female,
+42.0,,male,1022341.5620933356
+35.0,High School,male,609940.404298125
+36.0,,female,703635.7900184428
+65.0,University,female,1398162.3055320736
+67.0,Masters,female,1563630.716596884
+39.0,Community College,female,733022.2072848352
+89.0,Community College,male,882230.737823156
+76.0,Community College,male,1340033.6342010228
+91.0,University,male,1050880.159916766
+,Community College,male,
+96.0,Community College,male,643442.762786567
+42.0,High School,,801736.7552260706
+28.0,Masters,female,563197.1354963661
+43.0,Community College,male,1056913.3687775857
+70.0,Community College,female,
+64.0,Community College,female,1338186.9279922885
+,University,male,762828.0141047674
+,,female,1316187.3182323594
+50.0,Community College,male,1185989.1331628966
+18.0,Masters,female,0.0
+97.0,High School,female,391986.0944239525
+59.0,,male,1536033.9847325773
+91.0,Community College,male,888305.0334496028
+76.0,Community College,female,1143703.4431260107
+84.0,High School,male,899502.798053778
+53.0,University,,1330761.81555155
+64.0,Community College,female,1313401.1916251858
+28.0,University,female,381010.9519323174
+,Community College,male,912768.0292344815
+52.0,PhD,male,1624097.43339672
+81.0,Community College,male,1148071.0867366362
+39.0,Community College,male,921838.095902249
+92.0,Community College,female,748493.8186154052
+19.0,Community College,,0.0
+84.0,High School,female,918472.2418920177
+,University,male,1489296.5282456535
+67.0,High School,male,1238680.0751534477
+84.0,Community College,female,1030111.528781749
+95.0,University,male,829575.8994851263
+,Community College,female,0.0
+50.0,High School,female,982994.6556233271
+54.0,High School,female,927224.57224642
+70.0,,male,1258426.3077649456
+70.0,Community College,female,1191326.8811334253
+24.0,,female,0.0
+70.0,Community College,,1345076.196127539
+97.0,Community College,,434719.8510468687
+,Community College,female,735604.395086924
+77.0,Community College,male,1193993.4818878623
+,Masters,male,1034962.5085113377
+40.0,University,female,1010470.1345222024
+48.0,Community College,male,1101336.1023535552
+,High School,,1085529.3075822284
+39.0,Community College,male,876747.9048590965
+41.0,University,female,
+55.0,Community College,female,1150953.9835246443
+91.0,PhD,female,1172323.9913910602
+35.0,Community College,female,628223.4102529074
+23.0,Community College,male,51546.48004949278
+71.0,University,male,1420558.4248269135
+19.0,University,male,0.0
+70.0,High School,female,1111397.9470646058
+60.0,Masters,male,1592133.7808996337
+,High School,,0.0
+89.0,Community College,female,883550.8119391913
+,Community College,male,190078.2306576647
+46.0,Masters,female,1381853.9895790948
+39.0,University,female,
+73.0,Community College,male,1343135.537616366
+77.0,Community College,male,1290143.683762982
+71.0,Community College,male,1332669.4874434825
+79.0,PhD,,1643693.8082271395
+76.0,University,female,
+25.0,University,male,353466.6440943668
+95.0,Community College,female,640138.9992336547
+63.0,Community College,male,
+30.0,Community College,male,
+78.0,Community College,female,1176947.178164604
+90.0,Community College,female,780174.6956741345
+22.0,Community College,,0.0
+91.0,,female,473765.0908752106
+94.0,Masters,,912538.8191374305
+40.0,University,male,1080098.227296359
+57.0,Masters,female,1543895.4283063665
+83.0,Community College,male,1148669.8099433538
+52.0,University,female,1247075.80252955
+24.0,Community College,male,205815.58351671317
+58.0,Community College,male,
+95.0,University,male,839985.5044764327
+,High School,female,1045716.4390521578
+61.0,University,male,1516852.5761429886
+26.0,High School,female,45963.15377340714
+43.0,Community College,female,940781.0058716148
+40.0,Community College,male,872778.7994118899
+69.0,Community College,male,1369381.2331214203
+29.0,High School,,295458.81505296245
+21.0,University,,75983.98845081472
+43.0,Community College,male,935354.8531980576
+91.0,Masters,female,1035226.6806671846
+45.0,Community College,male,1011627.2713690202
+63.0,University,female,1448641.3406729286
+67.0,Community College,female,1238945.2595673283
+63.0,Community College,male,1321676.4964820517
+83.0,University,male,1291565.6176037719
+33.0,Community College,male,615121.3821549475
+82.0,Masters,female,1337020.4161266773
+92.0,University,male,915959.8565627605
+22.0,Masters,female,252342.90570094791
+87.0,Masters,female,1186279.9013830787
+84.0,Community College,female,1033191.048501083
+26.0,Masters,male,579782.8321552965
+90.0,University,,1016869.7446837338
+56.0,High School,male,1180402.2613772508
+49.0,PhD,male,1575140.8866801856
+99.0,Community College,male,539206.9751377156
+22.0,Community College,,96053.53783174654
+65.0,Community College,female,1234971.8483388578
+73.0,Community College,,1268120.9637799729
+66.0,Community College,female,1325022.2282941672
+,University,female,1198639.1986696792
+97.0,Masters,female,
+29.0,University,female,450202.2738411005
+27.0,,female,197664.88044357818
+92.0,High School,male,618799.49952636
+81.0,,,1300847.3849583205
+50.0,Community College,male,1206699.5664382107
+72.0,High School,female,1107451.9068354927
+39.0,Community College,female,693015.0323112302
+97.0,Community College,male,567627.9903864637
+72.0,Community College,male,1266616.1909139627
+47.0,University,female,1123698.5288952587
+44.0,Community College,male,987741.7394873585
+89.0,University,male,1128815.960139518
+51.0,Community College,male,1239271.9582459463
+89.0,High School,female,707971.865316904
+33.0,Masters,,766980.03804861
+63.0,University,female,1359005.3796990425
+59.0,Community College,male,1358430.1134720629
+38.0,University,female,871045.8422269977
+,Community College,female,937843.3494426234
+,University,male,0.0
+72.0,University,male,1471057.7549447047
+,Community College,male,1103724.1834407798
+86.0,,male,1186340.2091135175
+59.0,High School,female,1134601.214682941
+30.0,Community College,female,412711.12276471464
+,Community College,female,
+,Community College,female,411916.00956429646
+37.0,Masters,female,970359.0223407112
+83.0,University,male,1304180.6532795792
+51.0,University,female,1238954.0659836507
+59.0,University,,1440481.672385152
+48.0,University,male,1326415.4537562001
+92.0,Community College,male,793040.6428202881
+82.0,High School,female,945484.7829931832
+39.0,Community College,male,835760.8646222501
+27.0,,female,0.0
+39.0,University,female,899544.549640872
+58.0,University,male,1459029.849082898
+,High School,female,680937.8701350015
+56.0,Community College,male,1270715.7770905837
+,,female,1280098.463207372
+74.0,,female,1245087.4551149616
+,Community College,male,1241755.9145334987
+,Community College,male,1383836.9900336051
+69.0,,male,1060557.0034716488
+67.0,Community College,female,1312543.035344836
+67.0,University,female,1392976.718120008
+95.0,University,,
+94.0,Community College,female,627036.7986800112
+25.0,,male,
+33.0,,female,353375.96868150553
+20.0,Community College,male,0.0
+95.0,Community College,female,655976.2343551486
+43.0,University,female,
+33.0,High School,male,435401.8252462205
+25.0,Community College,male,265032.2841971075
+86.0,Community College,,
+54.0,University,male,
+24.0,University,female,188419.39952598972
+85.0,PhD,female,1394369.3723806813
+83.0,Community College,male,1110614.1991256913
+73.0,University,female,1406878.9684042719
+,High School,,0.0
+20.0,High School,female,0.0
+40.0,High School,male,739834.9565454386
+89.0,University,female,978627.4762322498
+,Masters,female,1378173.451556368
+,,male,1040965.1949325526
+63.0,Community College,male,1408144.5939793736
+91.0,Community College,,865404.2049230855
+70.0,High School,female,1101689.1459698116
+85.0,Community College,male,1121987.8339702743
+94.0,University,male,878939.6097882136
+39.0,,female,539505.2039498432
+80.0,Community College,male,1147481.9989946662
+,Community College,,1231838.0982274783
+31.0,Community College,male,490383.5982530891
+,University,female,1253524.683637032
+77.0,Community College,male,1214692.2415344177
+19.0,Masters,female,0.0
+93.0,University,male,
+43.0,University,male,1071745.2983132042
+84.0,High School,male,936886.5620360277
+80.0,High School,male,1052666.3604261086
+73.0,High School,female,1115098.8846756208
+87.0,Community College,female,873349.4612994326
+97.0,University,male,840103.5207169671
+68.0,Community College,male,1318876.346775916
+41.0,Community College,male,935138.9746748856
+,Masters,female,1137096.3004728754
+36.0,Community College,female,676338.6319008045
+68.0,High School,female,1065800.8387714135
+26.0,PhD,female,571445.62056357
+81.0,High School,male,1107965.602915122
+,Community College,male,1242121.1922737025
+70.0,University,,
+,Community College,male,857564.665320518
+,Community College,male,156364.28646863744
+64.0,PhD,,1749618.9234618875
+74.0,Community College,female,1280600.594545335
+79.0,Community College,male,1243144.9404062554
+,High School,female,0.0
+,,female,980337.831466127
+55.0,University,male,1354307.800172149
+,,male,502959.9706636602
+33.0,Community College,male,673018.2559283107
+,High School,female,1041854.627499574
+71.0,High School,female,1062854.3470370232
+19.0,University,female,0.0
+42.0,Community College,male,1016174.2531467663
+24.0,,,226817.24911405618
+71.0,Community College,female,1180429.3310267194
+87.0,Community College,male,1068213.0528601427
+43.0,Community College,male,1030078.4418869365
+,,male,1360536.35201167
+28.0,Masters,male,703869.6819151491
+54.0,High School,female,995270.6402530137
+51.0,High School,female,1014757.3037514426
+76.0,,male,1440127.6653024238
+72.0,University,male,1562045.9506412807
+99.0,University,female,620782.9447340204
+47.0,Community College,male,1156794.8118801825
+23.0,Community College,male,112591.43121989621
+48.0,,female,1140629.2306524352
+50.0,Masters,female,1432272.3561419528
+35.0,Community College,male,651176.393531733
+93.0,High School,female,630653.5678950471
+79.0,Masters,female,1380017.4679469035
+28.0,Masters,male,617648.0079235621
+67.0,Community College,female,1254703.040080318
+58.0,Community College,female,1246346.8355030206
+99.0,Community College,female,494717.314070733
+38.0,High School,female,585429.6368230957
+98.0,,male,281739.8046811617
+82.0,Community College,female,999123.1921987624
+,High School,male,171559.1492902112
+59.0,Community College,male,1337408.0378903789
+20.0,Masters,female,31269.853675674156
+89.0,University,,1121249.8555656215
+41.0,Community College,male,911474.5153768624
+85.0,PhD,female,1484818.7734415864
+99.0,High School,female,359084.6513296544
+23.0,Community College,female,24751.331069338437
+22.0,,male,0.0
+29.0,High School,male,236157.4600843709
+72.0,Community College,male,1268087.3335815372
+87.0,Community College,,959667.3555429074
+62.0,Community College,female,
+71.0,High School,male,
+68.0,Community College,male,1389855.0297861584
+44.0,Community College,female,935575.764968723
+70.0,Community College,female,1184641.8277730264
+86.0,University,male,1174576.7150642248
+86.0,Community College,male,1119979.8217619495
+93.0,University,male,940706.8977249643
+57.0,High School,female,1032836.2793998317
+,University,male,1376453.2671438048
+18.0,High School,,0.0
+38.0,University,male,962709.5657781712
+97.0,University,male,803956.0926858702
+91.0,Community College,female,860675.4842891721
+47.0,Community College,male,1167879.7939980295
+93.0,,male,743627.5160778533
+77.0,High School,male,
+22.0,Masters,male,281769.5899767956
+55.0,,male,1023797.0962782059
+66.0,Masters,female,1544964.3938309506
+49.0,Community College,female,
+67.0,Community College,male,1330475.3929542222
+64.0,University,male,1492876.2217085639
+44.0,Masters,female,1204753.224687834
+71.0,Masters,female,1524314.12260619
+30.0,Masters,,770063.5644328875
+72.0,Community College,female,
+44.0,Masters,male,1288720.091752351
+28.0,High School,male,231071.10363407075
+72.0,High School,female,1112376.6508805999
+93.0,University,female,832474.9070356586
+56.0,Community College,female,1187279.7764667599
+72.0,University,female,1428003.4951695974
+23.0,High School,male,0.0
+83.0,Community College,male,1161874.883002332
+81.0,Community College,female,1027639.3024117993
+32.0,High School,female,356140.5279572194
+91.0,Community College,female,843877.8359214232
+49.0,High School,male,988104.5473474136
+36.0,University,male,888918.4784649003
+47.0,Masters,female,1327823.974456417
+43.0,Masters,female,1187373.523509036
+46.0,,male,1362371.2300075546
+,University,male,646746.712329119
+27.0,Community College,male,
+39.0,University,female,874652.0743941435
+63.0,Community College,female,1299453.9410219619
+88.0,High School,male,750335.559248602
+49.0,Community College,male,1136974.9671935237
+91.0,High School,female,531708.0901175236
+71.0,Community College,male,1341729.6989739547
+71.0,University,female,1293383.8941080903
+75.0,,male,1646482.9982359873
+93.0,High School,female,575297.3625566253
+94.0,Community College,male,784420.3477608357
+81.0,Community College,male,1204952.1046921683
+54.0,Masters,male,1520214.0246524995
+40.0,Community College,female,836881.430616647
+99.0,High School,female,339928.9056030706
+87.0,University,male,1063242.5918179385
+29.0,Community College,male,490801.591646535
+49.0,Community College,female,
+84.0,Community College,female,976687.4543336794
+37.0,Community College,female,637337.5804750613
+53.0,Masters,male,1610604.7677153158
+48.0,Community College,male,1173618.3893570476
+99.0,High School,male,335353.29515461373
+,University,male,363028.9089766637
+32.0,Community College,female,452070.030474796
+54.0,University,female,1408761.145142414
+44.0,Community College,male,979172.844949431
+96.0,University,male,779947.7198944952
+23.0,High School,female,0.0
+45.0,University,male,1321838.7570234258
+68.0,High School,male,1232149.9654681187
+44.0,Community College,female,923801.8288042913
+24.0,High School,female,0.0
+94.0,Masters,female,895091.418215286
+80.0,High School,female,
+57.0,Community College,male,
+79.0,Community College,female,1178571.5524541247
+21.0,High School,female,0.0
+38.0,High School,,625269.7601094092
+25.0,High School,female,2100.277893663477
+30.0,High School,female,228059.43363844612
+96.0,High School,male,
+,Community College,female,450221.8458816508
+87.0,High School,female,792500.4494610203
+54.0,University,male,1508366.3061086575
+49.0,Community College,male,1122900.6559567442
+71.0,Masters,male,1556084.6809319642
+23.0,High School,male,
+97.0,Masters,,786455.1266829034
+,High School,female,
+,University,,584482.4757806436
+23.0,,female,0.0
+64.0,Community College,,1327801.7039825819
+54.0,Masters,female,1488710.4885943853
+81.0,Masters,female,1298198.3113036342
+33.0,Community College,male,559293.3257054222
+34.0,High School,male,549074.1703601544
+80.0,Community College,,1163195.3364328283
+34.0,Community College,,551088.7526112653
+89.0,Community College,male,903985.9148967466
+69.0,Community College,male,1385534.8402759258
+91.0,Community College,female,703693.899801423
+84.0,Community College,female,1067641.7777133589
+31.0,Community College,,540151.1290179886
+88.0,High School,male,877377.1950871
+33.0,Masters,female,799790.0507480542
+91.0,,female,497319.7861238322
+67.0,High School,male,1181037.879524386
+97.0,University,female,661127.4643149673
+33.0,Community College,male,687596.3214077658
+85.0,,female,1110424.8203421333
+78.0,University,female,1298069.0808195702
+21.0,Masters,,251343.01350378827
+47.0,Community College,female,974529.1545494468
+83.0,Community College,female,955630.1671435945
+40.0,Community College,male,
+82.0,Community College,,1137700.1663198357
+94.0,Community College,,
+27.0,Community College,female,173803.29559724196
+26.0,,female,200902.96982805006
+53.0,University,male,
+94.0,University,female,835587.4022906638
+95.0,Community College,female,649135.8587717352
+94.0,Community College,male,770971.8656566337
+81.0,Community College,male,1157739.3220861284
+66.0,Community College,male,1279726.231976803
+62.0,Community College,male,1380394.868062628
+22.0,University,female,28798.932782468044
+36.0,University,female,779049.8707830866
+,Community College,male,1175381.5517810408
+86.0,Community College,,989036.0492514333
+66.0,University,female,1435292.9090439945
+93.0,PhD,,1059755.1229423117
+40.0,High School,female,720613.2406497882
+58.0,University,male,1515960.2002951822
+46.0,High School,male,991385.4193022457
+49.0,Masters,male,1515486.0262567266
+44.0,,male,1368449.1932031952
+88.0,University,female,1027501.9703599734
+89.0,University,male,1031767.4058087561
+25.0,High School,male,39492.862494867586
+99.0,University,female,527501.6412738494
+21.0,University,male,166535.06416038919
+,High School,male,1030474.0660111626
+76.0,,female,1199440.029565753
+41.0,Community College,female,891055.5345644682
+87.0,University,female,1037226.2211121565
+91.0,Community College,female,716216.457201981
+88.0,University,female,957998.465983522
+29.0,Community College,female,
+68.0,High School,male,
+57.0,Masters,female,1483606.8361882234
+49.0,University,female,1260127.4773093662
+26.0,University,male,368071.2603997871
+95.0,,,590129.7099603348
+30.0,University,male,604835.1280732056
+37.0,,female,874760.0592953161
+63.0,High School,male,
+,Community College,male,
+,University,female,0.0
+35.0,University,male,
+,,male,923861.1584369389
+73.0,,male,1196221.2722229867
+68.0,,male,1613466.4415323057
+,University,female,282073.7125988052
+79.0,Community College,female,1049699.573968724
+98.0,University,female,648725.7664449166
+72.0,High School,,1136416.0233928314
+71.0,Community College,female,1278983.180507454
+46.0,PhD,female,1471380.3474924963
+94.0,Community College,female,668689.8527640055
+66.0,High School,male,
+72.0,Community College,female,1301469.609958065
+31.0,Community College,female,446638.9408580518
+,University,male,965133.9117902674
+,University,male,946972.5794627067
+33.0,,male,532533.2031799082
+18.0,Community College,female,0.0
+83.0,Community College,female,951930.0909542165
+,High School,female,1042186.2992530399
+48.0,Community College,female,1081031.3436581094
+90.0,University,male,1099209.0524934512
+83.0,Community College,female,981682.4183657704
+69.0,Community College,male,1374651.4745678673
+69.0,Community College,female,1205317.1661135224
+80.0,University,female,1215413.3570478605
+51.0,High School,male,1119325.0113765066
+68.0,Masters,male,1681494.3485005607
+18.0,Community College,male,0.0
+88.0,University,female,
+41.0,University,male,1072852.4908300745
+28.0,High School,male,271524.03515104245
+65.0,High School,female,1106933.902744752
+93.0,Masters,male,1027059.4328344011
+86.0,High School,male,864481.1385505373
+44.0,High School,male,890285.99911682
+98.0,,female,435687.0472863737
+76.0,High School,male,1115583.7662517044
+86.0,Community College,female,970356.6903900495
+22.0,High School,,0.0
+,Community College,female,
+89.0,Community College,female,824303.2259319131
+50.0,Community College,male,1281737.067725328
+34.0,Community College,male,714293.56279027
+60.0,Masters,male,1673480.3681579202
+59.0,University,female,1325603.7687543214
+,University,female,1377682.4708681912
+75.0,Community College,,1322753.1301596458
+,Masters,female,443790.5082765597
+28.0,Community College,,408639.43427731347
+64.0,Community College,female,1192878.2103603247
+55.0,University,male,1380090.976312738
+48.0,University,male,1308716.6570605857
+62.0,Community College,female,1207821.0016463925
+20.0,Community College,,
+27.0,Community College,female,206985.47759996727
+56.0,Community College,,1175903.1133767671
+77.0,University,female,1371071.2389877383
+32.0,High School,male,464035.0121776455
+24.0,Community College,male,99497.38643598388
+97.0,University,female,600604.7246149536
+,Community College,,1111271.2870701558
+,Community College,female,1046073.9308218085
+67.0,Community College,,1310071.931669979
+,,female,
+63.0,,male,1422261.8821289204
+34.0,University,male,855070.2261681845
+60.0,,,1205361.4131602785
+75.0,Community College,female,1155619.5905720696
+27.0,High School,male,138319.40712818748
+59.0,Community College,male,1389731.249291947
+64.0,,male,1406187.135063789
+97.0,High School,male,506776.197706187
+52.0,,male,1421790.8143286083
+22.0,University,female,0.0
+86.0,High School,female,
+57.0,University,female,1350071.5212655212
+39.0,Community College,male,939398.58397945
+,Community College,,1193177.5777685689
+58.0,University,male,1461639.8344668625
+69.0,University,female,
+80.0,University,female,1278556.461786116
+72.0,Masters,female,1567476.201985202
+24.0,High School,female,0.0
+57.0,High School,female,1056711.1036036424
+85.0,University,female,1139868.0587557508
+21.0,University,female,0.0
+43.0,University,male,1221849.214477816
+18.0,,male,0.0
+94.0,University,female,755815.6213195937
+18.0,High School,female,0.0
+55.0,University,female,1406008.023993896
+86.0,Masters,male,1427404.5885977165
+55.0,Community College,male,1251196.7589534232
+60.0,,,1575655.5467213772
+33.0,Community College,female,565318.6038241443
+91.0,Community College,female,816651.6671105103
+50.0,Community College,male,1143264.3654153731
+23.0,Community College,female,
+93.0,Community College,male,773565.9645590057
+97.0,Masters,male,849365.4721471312
+90.0,Community College,male,
+99.0,,female,436215.8666416556
+28.0,Community College,female,321001.55639176606
+75.0,High School,female,1087535.347593694
+49.0,University,female,1158666.9040741373
+66.0,University,male,1458851.7178175037
+48.0,University,male,1346241.2658666633
+89.0,Community College,female,
+,,female,1007144.2663341401
+76.0,Community College,male,1307029.9406858357
+53.0,Community College,female,1167290.2625675737
+34.0,Masters,female,784472.4388379997
+65.0,High School,male,1214519.8888301984
+94.0,Community College,,754497.9196242786
+57.0,,female,916578.9395537941
+86.0,PhD,female,1469232.4459245002
+83.0,University,female,1230740.6686201515
+86.0,Masters,female,1209705.4920271747
+49.0,High School,male,
+23.0,High School,female,
+93.0,High School,female,592608.722675851
+36.0,University,male,855436.4768239865
+85.0,University,female,1148275.873688491
+23.0,Community College,male,94486.50806760327
+54.0,High School,,1126758.356637746
+85.0,University,male,1156814.294685307
+90.0,Community College,male,
+99.0,University,female,594552.8965993332
+93.0,Community College,female,682825.777451593
+,Community College,male,1226779.2836617578
+94.0,High School,male,
+67.0,Community College,male,
+,High School,female,841615.2454103035
+33.0,University,male,752406.7595662931
+19.0,Community College,male,0.0
+90.0,Masters,male,
+59.0,Masters,,1497956.6711344619
+22.0,Community College,female,0.0
+71.0,Community College,female,1252736.1890009386
+72.0,Community College,female,1275099.2978380104
+67.0,University,female,1439736.9940120133
+38.0,,,
+28.0,Community College,,283237.705640533
+40.0,University,male,990313.2984747528
+30.0,,male,538217.3577003197
+29.0,Community College,female,299869.4627815939
+23.0,Community College,male,57992.8470576957
+47.0,Community College,female,964339.5414483214
+41.0,Community College,male,891403.442335475
+,,,0.0
+68.0,High School,male,1253467.4334100652
+95.0,High School,female,494354.61929558177
+62.0,Masters,female,1510974.1351719268
+36.0,Community College,male,803730.8135687129
+59.0,High School,,1050138.0407582775
+60.0,High School,female,1192043.955618743
+62.0,University,female,1368702.7609975676
+49.0,Community College,male,
+,University,female,796980.5228489563
+,High School,female,1147039.6393111765
+81.0,Community College,male,1155631.7731259316
+98.0,Community College,female,522737.4357621921
+,PhD,female,464984.91486542503
+19.0,University,female,0.0
+48.0,,male,1152207.8874801297
+98.0,,female,515970.1967294652
+65.0,High School,male,1212657.5411227944
+43.0,,female,1021592.2548403157
+36.0,High School,female,501075.5644734849
+33.0,Community College,female,473956.8740217285
+82.0,University,female,1166223.533653005
+71.0,Masters,,1633786.0655225331
+57.0,University,female,1382430.1821124142
+94.0,High School,male,639497.9891406696
+19.0,PhD,female,173599.56593198876
+42.0,High School,male,765755.7395321095
+41.0,Community College,female,
+56.0,,male,1332031.9771362287
+43.0,Community College,female,933602.0910604986
+87.0,Masters,male,1312833.0126250198
+69.0,Masters,female,1524431.26629191
+,High School,female,1046680.9178821091
+29.0,University,female,508084.0256677201
+48.0,University,female,1131457.3474166892
+,University,male,1469688.8430620567
+48.0,Masters,female,1301812.7034659411
+93.0,University,male,964194.4436891815
+29.0,University,male,487613.05074961414
+71.0,Community College,female,1221769.7434838642
+26.0,University,female,350145.2371405488
+44.0,Community College,,1020049.3615302491
+27.0,,male,403702.98217007215
+22.0,High School,male,0.0
+70.0,Community College,female,1313387.2202803101
+74.0,Community College,female,1207822.2584589478
+67.0,,female,1132420.450035819
+94.0,High School,female,562967.8274701947
+26.0,High School,male,149495.14090711012
+80.0,Community College,female,1159013.2475568724
+38.0,Community College,female,762109.999808553
+81.0,High School,female,959479.5802902704
+91.0,University,male,1027448.3136772226
+33.0,High School,female,423880.6174343882
+55.0,Community College,female,1285589.3044367349
+28.0,University,male,578497.8578600512
+30.0,,female,99976.45642963337
+22.0,High School,female,0.0
+64.0,PhD,male,1788483.5949569785
+38.0,,female,971596.2431606706
+,Community College,female,1302846.9789197799
+96.0,University,female,655699.3935154199
+84.0,University,male,1201738.2707139761
+81.0,University,,1192673.37576864
+36.0,Masters,male,1089142.553407857
+42.0,Community College,male,935776.3095969559
+34.0,University,male,822369.4298067815
+25.0,Community College,female,52440.50822237875
+63.0,University,male,1503635.2829790697
+,University,male,286314.30061305646
+35.0,University,female,748475.4478180625
+76.0,University,female,
+51.0,High School,female,1005644.3481408709
+25.0,University,male,325144.5640933526
+21.0,,female,0.0
+69.0,Community College,female,1248831.1502996986
+32.0,Community College,male,531090.3826889811
+,,female,153602.96990390192
+50.0,University,male,1370835.6047294457
+45.0,Community College,female,1057970.0762009171
+19.0,University,male,13045.439739877807
+29.0,University,female,412145.8057694435
+52.0,Community College,,1187246.9139636138
+67.0,High School,female,1106847.529687783
+59.0,University,male,
+98.0,Community College,male,612132.1044794885
+89.0,Community College,male,901807.237155864
+91.0,,female,
+29.0,Community College,male,415436.40490603866
+77.0,University,female,1270956.3147727419
+90.0,High School,,829980.9089769031
+20.0,Community College,male,0.0
+39.0,Community College,female,791233.539025841
+,University,female,0.0
+72.0,Community College,female,1233565.1335818446
+74.0,Community College,female,1192586.418608974
+87.0,High School,female,719683.6812604973
+60.0,Community College,female,1303000.2310056766
+38.0,High School,male,701341.7893145429
+57.0,High School,female,1069739.7646139553
+75.0,High School,,1204602.9115310668
+19.0,High School,male,0.0
+30.0,High School,male,375568.5941342373
+77.0,Community College,female,1199278.0297690223
+,Community College,male,275753.4136056331
+50.0,High School,female,968449.5152643729
+22.0,Community College,female,0.0
+49.0,Community College,female,
+74.0,University,male,1513010.3735320845
+79.0,Community College,female,1096308.9726315178
+22.0,University,male,131238.00409888773
+86.0,,female,831973.6637302346
+54.0,,female,836026.0654606053
+,Community College,male,948243.9324141919
+50.0,Masters,female,1322481.4006226636
+27.0,Community College,female,221347.79734792584
+94.0,High School,male,647001.7182833528
+98.0,Community College,female,504635.97136872343
+,Community College,female,495126.47396566614
+65.0,,male,1409382.7241627919
+,Community College,male,
+64.0,Community College,female,1249561.4459541508
+,,male,262749.7442976961
+57.0,Community College,male,
+68.0,High School,female,1164648.8148645724
+22.0,High School,female,0.0
+66.0,University,female,1341881.274645677
+33.0,Community College,female,
+29.0,High School,male,330890.2962400783
+33.0,University,male,775570.8317497335
+30.0,Community College,,449878.0520258781
+76.0,Community College,female,1137566.0732781712
+82.0,,male,1359449.4067695881
+38.0,Community College,male,806383.7023922399
+75.0,Community College,female,1236164.4626038196
+19.0,Community College,female,0.0
+81.0,University,female,1259110.7586927856
+94.0,Community College,male,697542.0356505087
+61.0,,male,1417467.893134888
+80.0,Community College,male,1230573.168114192
+98.0,Community College,,511296.3579469214
+47.0,Community College,,989931.1908658394
+52.0,Community College,male,1236608.1173514968
+31.0,University,male,
+84.0,Community College,female,958248.5687145822
+34.0,Community College,male,614466.5463924628
+31.0,Community College,female,492613.68467945023
+41.0,Community College,female,
+71.0,PhD,male,1826355.5598992624
+,Community College,female,1148824.5590505984
+26.0,Community College,female,136557.72118421315
+,Community College,female,1159845.4912377223
+73.0,Community College,,1260912.3337011118
+18.0,Masters,male,54625.76086045361
+60.0,High School,,1147697.6516143344
+24.0,University,female,117697.38764815027
+82.0,University,female,1209263.5484884046
+,University,,1468241.6405843908
+35.0,University,female,794728.5277580728
+30.0,University,female,543469.8170459354
+39.0,University,female,
+63.0,University,male,1501744.2469028393
+27.0,University,,405650.34461548174
+88.0,Community College,female,867604.7662717316
+36.0,Masters,,
+19.0,University,,0.0
+56.0,,male,1276966.2468952285
+59.0,High School,,1191864.4923590706
+19.0,Community College,male,0.0
+43.0,University,male,1079927.8143190523
+,University,female,635873.2249531432
+86.0,Community College,male,988694.8436983752
+97.0,University,male,
+36.0,Community College,male,707537.6623664584
+68.0,University,male,1531151.9445904978
+87.0,Community College,male,911036.6681862454
+55.0,Community College,male,1270700.656836917
+99.0,Community College,female,474722.57649990014
+66.0,,female,
+29.0,,male,204429.9441224447
+72.0,Community College,male,1307083.9924620308
+73.0,High School,female,1042666.4836012335
+95.0,Community College,female,653889.9341514586
+,,female,1450837.2061544787
+57.0,,male,1276407.752129091
+,High School,female,12351.030826178641
+23.0,University,male,259858.6178947594
+28.0,High School,male,250499.83393864648
+84.0,Community College,female,1027666.1250104771
+83.0,University,male,1232480.5604981405
+96.0,University,male,798259.3239283023
+52.0,Community College,male,1169801.6821127206
+35.0,University,female,694125.0748018726
+52.0,,male,1128701.5387085201
+58.0,Community College,male,1367173.8735076848
+37.0,Community College,male,739397.3100436905
+23.0,High School,female,0.0
+,University,female,814339.5713099167
+95.0,University,female,839808.2181251657
+71.0,Community College,female,1192670.193605468
+98.0,University,,793963.874637685
+54.0,Community College,,1329105.5193129722
+42.0,Community College,male,
+97.0,University,male,748478.5542024291
+,Community College,female,690827.3123908342
+67.0,Masters,male,1649595.8522406083
+66.0,University,female,1473383.4914399
+74.0,University,female,1404581.8880735354
+45.0,University,female,1133623.4556816774
+,Community College,male,1172866.4461603484
+64.0,Community College,male,1356090.4818919045
+49.0,High School,male,1079342.974900304
+,University,female,335030.15031162364
+41.0,Masters,male,1175428.7068294669
+53.0,Masters,female,1518833.8490337075
+28.0,Community College,male,414452.98354892264
+,Masters,male,1490943.6052527044
+49.0,Community College,male,1199073.2973214695
+,University,male,1166432.2077052833
+26.0,Community College,,311980.272965305
+91.0,Community College,male,870649.2755864834
+18.0,,female,0.0
+,University,,1382996.3500816203
+,High School,female,900442.4603764201
+81.0,Community College,female,
+77.0,,male,1287095.5499425475
+,High School,female,
+,Masters,female,841011.9237906585
+76.0,High School,male,1050802.0144004335
+64.0,,female,1170987.090385162
+67.0,,male,1267194.6334965182
+99.0,Masters,,746482.555252486
+36.0,Community College,,639125.2918608245
+58.0,High School,male,1229874.0113001005
+90.0,Masters,female,1054144.3063409314
+84.0,Community College,male,1130250.4485123884
+79.0,Community College,female,
+69.0,University,,1504254.4971634243
+74.0,University,female,1345970.0992048227
+,University,female,1327960.4130939862
+25.0,Community College,,201160.287291421
+84.0,University,female,1124572.0371013416
