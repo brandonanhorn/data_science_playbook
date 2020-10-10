@@ -14,4 +14,4 @@ Data Science steps:
 5. Evaluate the model.
 6. Answer the problem.
 
-*rough copy as of Sept. 17, 2020*
+*rough copy as of Oct. 9, 2020*
