@@ -1,9 +1,11 @@
 # A complete data science playbook
 
 This playbook will have Python code for:
-functions, matplotlib, seaborn, altair, pandas, bayesian statistics, linear regression, logistic regression, random forest, decion trees, catboost, clustering, deep learning, nlp, webscraping, automation..
+functions, matplotlib, seaborn, altair, pandas, bayesian statistics, linear regression, logistic regression, random forest, decion trees, catboost, clustering, deep learning, nlp, webscraping, automation.. and much much more!
 
-## and much much more!
+## Where to start?
+1) Learn the basics of Python
+
 
 Data Science steps:
 
@@ -14,4 +16,7 @@ Data Science steps:
 5. Evaluate the model.
 6. Answer the problem.
 
-*rough copy as of Oct. 9, 2020*
+
+
+*rough copy as of Oct. 16, 2020*
+
