@@ -7,8 +7,8 @@ functions, matplotlib, seaborn, altair, pandas, bayesian statistics, linear regr
 1) Learn the basics of Python
 
 
-Data Science steps:
 
+Data Science steps:
 1. Define the problem.
 2. Gather the data.
 3. Explore the data.
@@ -18,5 +18,10 @@ Data Science steps:
 
 
 
-*rough copy as of Oct. 25, 2020*
+
+
+
+
+
+*rough copy as of Oct. 29, 2020*
 
