@@ -23,5 +23,5 @@ Data Science steps:
 
 
 
-* rough copy as of Nov. 28, 2020 *
+* rough copy as of Dec. 7, 2020 *
 
