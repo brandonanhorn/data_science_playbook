@@ -23,5 +23,5 @@ Data Science steps:
 
 
 
-* rough copy as of April 9, 2021 *
-
+* rough copy as of May 28, 2021 *
+* will update order on which to learn soon *
