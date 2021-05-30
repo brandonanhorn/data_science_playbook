@@ -5,6 +5,8 @@ functions, matplotlib, seaborn, altair, pandas, bayesian statistics, linear regr
 
 ## Where to start?
 1) Learn the basics of Python
+2) PANDAS - best source for data mining/exploration
+3) Visualization - (Matplotlib, Seaborn, LOTS of other ones to learn - start with those two)
 
 
 
